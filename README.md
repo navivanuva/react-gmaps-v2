@@ -1,9 +1,9 @@
-[![Build Status](https://travis-ci.org/MicheleBertoli/react-gmaps.svg?branch=master)](https://travis-ci.org/MicheleBertoli/react-gmaps)
 
-React Gmaps
+React Gmaps V2
 ===========
 
 A [Google Maps](https://developers.google.com/maps/documentation/javascript/) component for [React.js](http://facebook.github.io/react/)
+( Updated version of React Gmaps based on [Michele Bertoli's react-gmaps](https://github.com/MicheleBertoli/react-gmaps) )
 
 Features
 --------
